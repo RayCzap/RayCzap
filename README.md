@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayCzap
-- 👀 I’m interested in Kalman applications for data fusion with Earth obseving satellie sensors
+- 👀 I’m interested in Kalman filter applications for data fusion with Earth obseving satellie sensors
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on remote sensing and official statistic
 - 📫 How to reach me raymond_czaplewski@environmetrika.org
